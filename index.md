@@ -10,7 +10,7 @@ header :
     image: "/assets/images/universe.jpg"
 ---
 
-My name is Jérémie Peres. I live in Paris. I graduated from CentraleSupelec (2017) and Telecom Paris (2020). I start my career as a strategy consultant, working 2 years for Vertone and turned data scientist.
+My name is Jérémie Peres. I graduated from CentraleSupelec in 2017 an I worked as a strategy consultant for 2 years at Vertone, a strategy and management consulting firm specialized in Marketing, Business Development and Customer Relationship Management. I am currently doing a Post Master's Degree in Data Science at Telecom Paris, from which I will graduate in 2020.
 
 If you would like to get to know more about me, feel free to check out my [resume](/assets/files/CV.pdf).
 
