@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name     : "Jérémie Peres"
-  avatar   : "/assets/images/jperes.JPG"
+  avatar   : "https://jeremieperes.github.io/assets/images/jperes.JPG"
   bio      : "Data Scientist - CentraleSupelec & Telecom Paris alumni"
   location : "Paris"
   links:
