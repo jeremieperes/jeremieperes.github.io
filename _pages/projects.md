@@ -11,7 +11,7 @@ header :
 ## Data Engineering projects
 
 * [GDELT Project](https://github.com/jeremieperes/MongoDB-Gdelt)
-Built a resilient architecture for storing large amount of data from the GDELT database allowing fast responding queries 
+Built a resilient architecture for storing large amount of data from the GDELT database allowing fast responding queries
 
   **Environment:**  
 
@@ -22,7 +22,7 @@ Built a resilient architecture for storing large amount of data from the GDELT d
 ## Data visualization projects
 
 * [French digital training courses - GitHub repo](https://github.com/jeremieperes/french-training-courses)
-: Built web app providing a statistical analysis of French digital training courses offered on the website / mobile app “Mon Compte Formation”, launched in November 2019 by the French Governement.
+: Built a web app providing a statistical analysis of French digital training courses offered on the website / mobile app “Mon Compte Formation”, launched in November 2019 by the French Governement.
 
 
 ## CentraleSupelec final year project (2017)
