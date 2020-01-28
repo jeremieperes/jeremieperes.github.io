@@ -8,14 +8,19 @@ header :
     image: "/assets/images/universe.jpg"
 ---
 
+## Data Science projects
+
+
 ## Data Engineering projects
 
 * [GDELT Project](https://github.com/jeremieperes/MongoDB-Gdelt)
-Built a resilient architecture for storing large amount of data from the GDELT database allowing fast responding queries
+: Built a resilient architecture for storing large amount of data from the GDELT database allowing fast responding queries
 
   **Environment:**  
 
-  ETL: Spark - Architecture: 3 MongoDB nodes on EC2 - Visualization: Zeppelin + Python webapp
+  - ETL: Spark
+  - Architecture: 3 MongoDB nodes on EC2
+  - Visualization: Zeppelin + Python webapp
 
   ![Environment for GDELT project](/assets/images/gdelt.png)
 
