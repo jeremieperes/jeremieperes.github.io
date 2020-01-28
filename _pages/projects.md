@@ -8,28 +8,27 @@ header :
     image: "/assets/images/universe.jpg"
 ---
 
-## Data Science projects
+## Data Science
 
 
-## Data Engineering projects
+## Data Engineering
 
-* [GDELT Project](https://github.com/jeremieperes/MongoDB-Gdelt)
-: Built a resilient architecture for storing large amount of data from the GDELT database allowing fast responding queries
+* [GDELT Project](https://github.com/jeremieperes/MongoDB-Gdelt):
+Built a resilient architecture for storing large amount of data from the GDELT database allowing fast responding queries
 
   **Environment:**  
-
   - ETL: Spark
   - Architecture: 3 MongoDB nodes on EC2
   - Visualization: Zeppelin + Python webapp
 
   ![Environment for GDELT project](/assets/images/gdelt.png)
 
-## Data visualization projects
+## Data visualization
 
-* [French digital training courses - GitHub repo](https://github.com/jeremieperes/french-training-courses)
-: Built a web app providing a statistical analysis of French digital training courses offered on the website / mobile app “Mon Compte Formation”, launched in November 2019 by the French Governement.
+* [French digital training courses - GitHub repo](https://github.com/jeremieperes/french-training-courses):
+Built a web app providing a statistical analysis of French digital training courses offered on the website / mobile app “Mon Compte Formation”, launched in November 2019 by the French Governement.
 
 
-## CentraleSupelec final year project (2017)
+## IoT
 
-[Piratage d’objets connectés - Lampe Philips Hue](/assets/files/Rapport_Projet_IoT.pdf)
+* [CentraleSupelec final year project - Piratage d’objets connectés (2017)](/assets/files/Rapport_Projet_IoT.pdf)
