@@ -13,7 +13,7 @@ header :
 
 ### About AI
 
-*These contents were written with Vertone AI team*
+*These contents were written with Vertone AI team :*
 
 [Le vocal, l'interface de demain](https://vertone.com/blog/2018/06/15/le-vocal-interface-de-demain/?from_blog&service=325)
 

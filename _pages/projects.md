@@ -10,24 +10,31 @@ header :
 
 ## Data Science
 
-* [Carrefour-X AI & Retail Challenge](https://github.com/jeremieperes/Hackathon-X-Carrefour-2020/)
+* [Carrefour-X AI & Retail Challenge](https://github.com/jeremieperes/Hackathon-X-Carrefour-2020/): 10 weeks project building a local Marketing Mix Modeling – analysis and prediction of the impact of marketing media on sales (ROI) - **Rank 1st**
 
-From 3rd February to 8th April 2020, I had the opportunity of participating in the X-Carrefour AI & Retail Challenge, a data science hackathon gathering 130 participants working on 3 specific thematics : Assortments / in-store offers, Marketing Mix Modeling  and Delivery Optimisation.
+  **Keywords:** *MMM, Interpretable ML, CatBoost, SHAP, GCP, Big Query, Dash*
 
-With the help of Carrefour Data and Marketing Departments and over 30 datasets on Carrefour's products, customers, marketing investments and sales, **our team won the 1st prize** by building a Marketing Mix Modeling at a local granularity with a focus on organic products in order to isolate and anticipate the impact of the local marketing levers on organic sales.
+  From 3rd February to 8th April 2020, I had the opportunity of participating in the X-Carrefour AI & Retail Challenge, a data science hackathon gathering 130 participants working on 3 specific thematics : Assortments / in-store offers, Marketing Mix Modeling  and Delivery Optimisation.
 
-Our team managed to train a highly effective yet interpretable Machine Learning algorithm using [CatBoost](https://catboost.ai/) and [SHAP](https://github.com/slundberg/shap), build a dashboard for Carrefour Marketing teams to help them analyse the profitability of all marketing investments and give Carrefour concrete recommendations to help them become the world leader in the [« food transition »](https://actforfood.carrefour.fr/).
+  With the help of Carrefour Data and Marketing Departments and over 30 datasets on Carrefour's products, customers, marketing investments and sales, **our team won the 1st prize** by building a Marketing Mix Modeling at a local granularity with a focus on organic products in order to isolate and anticipate the impact of the local marketing levers on organic sales.
 
-* [LFIS-Dauphine Hackathon](https://github.com/jeremieperes/Team-JKVT-Datachallenge-Dauphine)
- On February 2020, I had the pleasure of participating in a 24 hours data challenge organized by [LFIS](https://www.lfis.com/fr.html), [Sesamm](https://www.sesamm.com/) and [Dauphine Université Paris](https://dauphine.psl.eu/). The goal was to predict stock volatility among the S&P500 and Stoxx600 on performance announcement dates.
+  Our team managed to train a highly effective yet interpretable Machine Learning algorithm using [CatBoost](https://catboost.ai/) and [SHAP](https://github.com/slundberg/shap), build a dashboard for Carrefour Marketing teams to help them analyse the profitability of all marketing investments and give Carrefour concrete recommendations to help them become the world leader in the [« food transition »](https://actforfood.carrefour.fr/).
 
- Using advanced preprocessing and hyperparameters optimization techniques, **our team won the 3rd prize**.
+* [LFIS-Dauphine Hackathon](https://github.com/jeremieperes/Team-JKVT-Datachallenge-Dauphine): 24 hours data challenge predicting stock volatility among the S&P500 and Stoxx600 on performance announcement dates - **Rank 3rd**
+
+  **Keywords:** *LightGBM, Hyperopt, resampling (SMOTE)*
+
+  On February 2020, I had the pleasure of participating in a 24 hours data challenge organized by [LFIS](https://www.lfis.com/fr.html), [Sesamm](https://www.sesamm.com/) and [Dauphine Université Paris](https://dauphine.psl.eu/). The goal was to predict stock volatility among the S&P500 and Stoxx600 on performance announcement dates.
+
+  Using advanced preprocessing and hyperparameters optimization techniques, **our team won the 3rd prize**.
 
 
 ## Data Engineering
 
 * [GDELT Project](https://github.com/jeremieperes/MongoDB-Gdelt):
 Built a resilient architecture for storing large amount of data from the GDELT database allowing fast responding queries
+
+  **Keywords:** *Spark, MongoDB, AWS, Zeppelin, ETL*
 
   **Environment:**  
   - ETL: Spark
@@ -40,6 +47,8 @@ Built a resilient architecture for storing large amount of data from the GDELT d
 
 * [French digital training courses - GitHub repo](https://github.com/jeremieperes/french-training-courses):
 Built a web app providing a statistical analysis of French digital training courses offered on the website / mobile app “Mon Compte Formation”, launched in November 2019 by the French Governement.
+
+  **Keywords:** *web scrapping, data visualization*
 
 
 ## IoT
