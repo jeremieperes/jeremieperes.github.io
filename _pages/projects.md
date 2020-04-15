@@ -10,7 +10,7 @@ header :
 
 ## Data Science
 
-* [Carrefour-X AI & Retail Challenge](https://github.com/jeremieperes/Hackathon-X-Carrefour-2020/) - **Rank 1st**: 10 weeks project building a local Marketing Mix Modeling – analysis and prediction of the impact of marketing media on sales (ROI)
+* **[Carrefour-X AI & Retail Challenge](https://github.com/jeremieperes/Hackathon-X-Carrefour-2020/) - Rank 1st: 10 weeks project building a local Marketing Mix Modeling – analysis and prediction of the impact of marketing media on sales (ROI)**
 
     ![Carrefour-X AI & Retail Challenge](/assets/images/carrefour_X_challenge.png)
 
@@ -22,7 +22,7 @@ header :
 
     Our team managed to train a highly effective yet interpretable Machine Learning algorithm using [CatBoost](https://catboost.ai/) and [SHAP](https://github.com/slundberg/shap), build a dashboard for Carrefour Marketing teams to help them analyse the profitability of all marketing investments and give Carrefour concrete recommendations to help them become the world leader in the [« food transition »](https://actforfood.carrefour.fr/).
 
-* [LFIS-Dauphine Hackathon](https://github.com/jeremieperes/Team-JKVT-Datachallenge-Dauphine) - **Rank 3rd**: 24 hours data challenge predicting stock volatility among the S&P500 and Stoxx600 on performance announcement dates
+* **[LFIS-Dauphine Hackathon](https://github.com/jeremieperes/Team-JKVT-Datachallenge-Dauphine) - Rank 3rd: 24 hours data challenge predicting stock volatility among the S&P500 and Stoxx600 on performance announcement dates**
 
     **Keywords:** *LightGBM, Hyperopt, resampling (SMOTE)*
 
@@ -33,8 +33,7 @@ header :
 
 ## Data Engineering
 
-* [GDELT Project](https://github.com/jeremieperes/MongoDB-Gdelt):
-Built a resilient architecture for storing large amount of data from the GDELT database allowing fast responding queries
+* **[GDELT Project](https://github.com/jeremieperes/MongoDB-Gdelt): Built a resilient architecture for storing large amount of data from the GDELT database allowing fast responding queries**
 
     **Keywords:** *Spark, MongoDB, AWS, Zeppelin, ETL*
 
@@ -47,12 +46,13 @@ Built a resilient architecture for storing large amount of data from the GDELT d
 
 ## Data visualization
 
-* [French digital training courses - GitHub repo](https://github.com/jeremieperes/french-training-courses):
-Built a web app providing a statistical analysis of French digital training courses offered on the website / mobile app “Mon Compte Formation”, launched in November 2019 by the French Governement.
+* **[French digital training courses - GitHub repo](https://github.com/jeremieperes/french-training-courses): Built a web app in Python providing an analysis of French online digital training market.**
 
     **Keywords:** *web scrapping, data visualization*
+
+    Built a web app providing a statistical analysis of French digital training courses offered on the website / mobile app “Mon Compte Formation”, launched in November 2019 by the French Governement.
 
 
 ## IoT
 
-* [CentraleSupelec final year project - Piratage d’objets connectés (2017)](/assets/files/Rapport_Projet_IoT.pdf)
+* **[CentraleSupelec final year project - Piratage d’objets connectés (2017)](/assets/files/Rapport_Projet_IoT.pdf)**
