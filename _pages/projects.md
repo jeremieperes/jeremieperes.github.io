@@ -10,9 +10,7 @@ header :
 
 ## Data Science
 
-* **[Carrefour-X AI & Retail Challenge](https://github.com/jeremieperes/Hackathon-X-Carrefour-2020/) - Rank 1st: 10 weeks project building a local Marketing Mix Modeling – analysis and prediction of the impact of marketing media on sales (ROI)**
-
-    ![Carrefour-X AI & Retail Challenge](/assets/images/carrefour_X_challenge.png?thumbnail)
+* **[Carrefour-X AI & Retail Challenge](https://github.com/jeremieperes/Hackathon-X-Carrefour-2020/) - Rank 1st: 10 weeks project building a local Marketing Mix Modeling – analysis and prediction of the impact of marketing media on sales (ROI)**    
 
     **Keywords:** *MMM, Interpretable ML, CatBoost, SHAP, GCP, Big Query, Dash*
 
