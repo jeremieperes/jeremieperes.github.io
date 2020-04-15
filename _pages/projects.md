@@ -10,6 +10,19 @@ header :
 
 ## Data Science
 
+* [Carrefour-X AI & Retail Challenge](https://github.com/jeremieperes/Hackathon-X-Carrefour-2020/)
+
+From 3rd February to 8th April 2020, I had the opportunity of participating in the X-Carrefour AI & Retail Challenge, a data science hackathon gathering 130 participants working on 3 specific thematics : Assortments / in-store offers, Marketing Mix Modeling  and Delivery Optimisation.
+
+With the help of Carrefour Data and Marketing Departments and over 30 datasets on Carrefour's products, customers, marketing investments and sales, **our team won the 1st prize** by building a Marketing Mix Modeling at a local granularity with a focus on organic products in order to isolate and anticipate the impact of the local marketing levers on organic sales.
+
+Our team managed to train a highly effective yet interpretable Machine Learning algorithm using [CatBoost](https://catboost.ai/) and [SHAP](https://github.com/slundberg/shap), build a dashboard for Carrefour Marketing teams to help them analyse the profitability of all marketing investments and give Carrefour concrete recommendations to help them become the world leader in the [« food transition »](https://actforfood.carrefour.fr/).
+
+* [LFIS-Dauphine Hackathon](https://github.com/jeremieperes/Team-JKVT-Datachallenge-Dauphine)
+ On February 2020, I had the pleasure of participating in a 24 hours data challenge organized by [LFIS](https://www.lfis.com/fr.html), [Sesamm](https://www.sesamm.com/) and [Dauphine Université Paris](https://dauphine.psl.eu/). The goal was to predict stock volatility among the S&P500 and Stoxx600 on performance announcement dates.
+
+ Using advanced preprocessing and hyperparameters optimization techniques, **our team won the 3rd prize**.
+
 
 ## Data Engineering
 
