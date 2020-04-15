@@ -8,7 +8,6 @@ classes: wide
 header :
     image: "/assets/images/universe.jpg"
 ---
-
 ## Written while working at Vertone
 
 ### About AI
